@@ -23,6 +23,7 @@ public class BallPhysics extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
         System.out.println("adsfasdfasdf");
+        System.out.println("adsfasdfasdf");
 	}
 
 }
