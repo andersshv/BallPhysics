@@ -21,6 +21,8 @@ public class BallPhysics extends JFrame {
         setTitle("BallPhysics");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        
+        System.out.println("adsfasdfasdf");
 	}
 
 }
