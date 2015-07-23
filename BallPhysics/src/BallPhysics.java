@@ -24,6 +24,7 @@ public class BallPhysics extends JFrame {
         
         System.out.println("adsfasdfasdf");
         System.out.println("adsfasdfasdf");
+        System.out.println("adsfasdfasdf");
 	}
 
 }
